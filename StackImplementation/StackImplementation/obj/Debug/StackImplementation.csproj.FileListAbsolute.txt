@@ -1,0 +1,6 @@
+c:\users\ankit sharma\documents\visual studio 2015\Projects\StackImplementation\StackImplementation\bin\Debug\StackImplementation.exe.config
+c:\users\ankit sharma\documents\visual studio 2015\Projects\StackImplementation\StackImplementation\bin\Debug\StackImplementation.exe
+c:\users\ankit sharma\documents\visual studio 2015\Projects\StackImplementation\StackImplementation\bin\Debug\StackImplementation.pdb
+c:\users\ankit sharma\documents\visual studio 2015\Projects\StackImplementation\StackImplementation\obj\Debug\StackImplementation.csprojResolveAssemblyReference.cache
+c:\users\ankit sharma\documents\visual studio 2015\Projects\StackImplementation\StackImplementation\obj\Debug\StackImplementation.exe
+c:\users\ankit sharma\documents\visual studio 2015\Projects\StackImplementation\StackImplementation\obj\Debug\StackImplementation.pdb
